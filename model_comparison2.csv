@@ -1,0 +1,10 @@
+SNo,Model Name,Accuracy %
+1,TextBlob,8.75
+2,VADER,18.9
+3,Naive Bayes,74.7
+4,Gradient Boosting,77.45
+5,Logistic Regression,78.95
+6,SVM,86.75
+7,Random Forest,89.8
+8,RoBERTa,97
+9,BERT,98.83
