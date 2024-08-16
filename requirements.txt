@@ -1,2 +1,2 @@
 streamlit
-tensorflow==2.11.0  # Use the version suitable for your app
+tensorflow  # Use the version suitable for your app
